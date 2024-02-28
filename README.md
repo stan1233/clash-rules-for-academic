@@ -1,4 +1,4 @@
-# clash-rules-for-academic
+# clash-rules-for-academic(clash学术期刊规则)
 为了方便学术研究，本文件在[前人基础](https://github.com/shxiaj/Clash-paperRule)上提供了一些常见的学术数据库和资源的Clash规则。这些规则可以帮助您更有效地访问和管理学术资源。
 ![image](https://github.com/stan1233/clash-rules-for-academic/assets/20401741/1dee52d3-8839-495f-b647-71ca58c241d7)
 ## 修改Settings-Profiles-Parsers
